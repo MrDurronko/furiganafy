@@ -9,4 +9,4 @@ Converts a string into ruby html, cause doing it yourself is annoying.
 <br />
 <p>Works with any kind of text.</p>
 <br />
-<a href="https://mrdurronko.bplaced.net/github/furiganafy/Furiganafy.php">Here's a working test version</a>
+<a href="http://mrdurronko.bplaced.net/github/furiganafy/Furiganafy.php" target="_blank">Here's a working test version</a>
